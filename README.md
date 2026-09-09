@@ -8,3 +8,6 @@ Nama panggilan / akun GitHub: Evan / pannpanns
 
 ## Status
 Proyek awal perkuliahan.
+
+`flutter pub get`
+`flutter run`
